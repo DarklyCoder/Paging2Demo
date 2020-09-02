@@ -135,3 +135,7 @@ implementation "androidx.paging:paging-runtime-ktx:2.1.2"
     ```
 
 如此就完成基于`RecyclerView`的数据自动分页加载逻辑。
+
+## 参考
+
+[paging](https://developer.android.com/topic/libraries/architecture/paging)
